@@ -56,6 +56,7 @@ Cleaned dataset for analysis
 
 Exploratory data analysis notebook
 
-Tableau storyboard link: (https://public.tableau.com/app/profile/shanza.khalid/viz/USGunViolenceAnalysis_17606837672130/GunViolenceAnalysis?publish=yes)
+Tableau storyboard link: 
+[US Gun Voilence Analysis](https://public.tableau.com/app/profile/shanza.khalid/viz/USGunViolenceAnalysis_17606837672130/GunViolenceAnalysis?publish=yes)
 
 Summary report of key findings and insights
